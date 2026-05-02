@@ -114,9 +114,9 @@ This project demonstrates the ability to:
 - Integrate real-time healthcare datasets  
 
 ---
-## 👥 Patient Age Group Distribution
+##  Patient Age Group Distribution
 
-![Patient Age Distribution](image.png)
+![Patient Age Distribution](age_group_distribution.png)
 
 This visualization shows that the majority of patients fall in the 66+ age group, followed by middle-aged groups. This indicates higher healthcare demand among older populations.
 
